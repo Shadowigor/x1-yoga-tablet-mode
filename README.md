@@ -3,7 +3,7 @@
 These are some scripts that should help the users of a Lenovo X1 Yoga to use their touchscreens in a more productive way. There are currently 4 scripts available:
 
  * _toggle-tablet-mode.sh:_
-    Disables the touchpad to prevent mouse movement while in tablet mode. Does not disable the keyboard (yet).
+    Disables the touchpad to prevent mouse movement while in tablet mode. Does not disable the keyboard (not necessary for the X1).
  * _toggle-rotation-180.sh:_
     Rotates the screen 180° (upside down). Might be useful for some tablet usages.
  * _toggle-rotation-90.sh:_
